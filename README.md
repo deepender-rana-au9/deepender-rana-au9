@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 MERN stack Developer
+ 🔭 MERN stack Developer /n
  📫 How to reach me: 9418416049
  
 
